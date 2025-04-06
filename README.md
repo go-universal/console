@@ -1,5 +1,12 @@
 # Colorize Console
 
+![GitHub Tag](https://img.shields.io/github/v/tag/go-universal/console?sort=semver&label=version)
+[![Go Reference](https://pkg.go.dev/badge/github.com/go-universal/console.svg)](https://pkg.go.dev/github.com/go-universal/console)
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/go-universal/console/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-universal/console)](https://goreportcard.com/report/github.com/go-universal/console)
+![Contributors](https://img.shields.io/github/contributors/go-universal/console)
+![Issues](https://img.shields.io/github/issues/go-universal/console)
+
 A token based (`@Style{msg}`) printer library for styling and formatting console output with ANSI escape codes. It supports rich formatting options such as text styles, colors, and backgrounds to make your terminal output more expressive and readable.
 
 ## Features
